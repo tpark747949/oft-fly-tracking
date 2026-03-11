@@ -11,3 +11,4 @@ test video/
 *.json
 *.jpg
 *.png
+.DS_Store
