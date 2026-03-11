@@ -1,0 +1,13 @@
+Writing/
+abridged/
+abridged_output/
+CL022426/
+CL022426_output/
+CL022426_02032026/
+CL022426_extract/
+test video/
+*.mp4
+*.mov
+*.json
+*.jpg
+*.png
